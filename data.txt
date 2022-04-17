@@ -1,0 +1,3 @@
+11 2 1 
+The HASH TABLE is: 
+2 1 11 
